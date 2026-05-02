@@ -21,5 +21,7 @@
 
 ## Автор исследования
 Ведерников Александр Станиславович
+
 email: al.vedernikov@inbox.ru
+
 tg: @alvedernikov
